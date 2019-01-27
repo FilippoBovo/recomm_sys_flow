@@ -4,9 +4,10 @@ This is a flowchart for building recommender systems as explained in the [Course
 
 ![recommender_systems_flowchart_low_resolution](flowchart/recommender_systems_flowchart_low_resolution.png)
 
-Download the high resolution flowchart by clicking at the following links:
+Download the flowchart in different formats by clicking on the following links:
 
 - [PDF](flowchart/recommender_systems_flowchart.pdf)
 - [PNG](flowchart/recommender_systems_flowchart.png)
 - [PNG - Low Resolution](flowchart/recommender_systems_flowchart_low_resolution.png)
 - [JPEG](flowchart/recommender_systems_flowchart.jpg)
+
